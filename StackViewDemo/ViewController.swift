@@ -20,6 +20,20 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    
+    
+    @IBAction func MakeCall(_ sender: Any) {
+    
+        if let phoneCallURL = URL(string: "tel:\(0046500271780)") {
+            let application:UIApplication = UIApplication.shared
+            if (application.canOpenURL(phoneCallURL)) {
+                application.open(phoneCallURL, options: [:], completionHandler: nil)
+                }
+            }
+        }
+    
+    
 
 }
+
 

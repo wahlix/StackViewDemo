@@ -12,6 +12,7 @@
 		DCB5B3FF1E5DD0E000E76952 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCB5B3FD1E5DD0E000E76952 /* Main.storyboard */; };
 		DCB5B4011E5DD0E000E76952 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCB5B4001E5DD0E000E76952 /* Assets.xcassets */; };
 		DCB5B4041E5DD0E000E76952 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCB5B4021E5DD0E000E76952 /* LaunchScreen.storyboard */; };
+		DCB5B40C1E5E0A7200E76952 /* Swedish.strings in Resources */ = {isa = PBXBuildFile; fileRef = DCB5B40B1E5E0A7200E76952 /* Swedish.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,9 @@
 		DCB5B4001E5DD0E000E76952 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCB5B4031E5DD0E000E76952 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCB5B4051E5DD0E000E76952 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCB5B40B1E5E0A7200E76952 /* Swedish.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Swedish.strings; sourceTree = "<group>"; };
+		DCB5B40E1E5E0B1400E76952 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Main.strings; sourceTree = "<group>"; };
+		DCB5B40F1E5E0B1400E76952 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,7 @@
 		DCB5B3F81E5DD0E000E76952 /* StackViewDemo */ = {
 			isa = PBXGroup;
 			children = (
+				DCB5B40B1E5E0A7200E76952 /* Swedish.strings */,
 				DCB5B3F91E5DD0E000E76952 /* AppDelegate.swift */,
 				DCB5B3FB1E5DD0E000E76952 /* ViewController.swift */,
 				DCB5B3FD1E5DD0E000E76952 /* Main.storyboard */,
@@ -126,6 +131,7 @@
 			files = (
 				DCB5B4041E5DD0E000E76952 /* LaunchScreen.storyboard in Resources */,
 				DCB5B4011E5DD0E000E76952 /* Assets.xcassets in Resources */,
+				DCB5B40C1E5E0A7200E76952 /* Swedish.strings in Resources */,
 				DCB5B3FF1E5DD0E000E76952 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -149,6 +155,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				DCB5B3FE1E5DD0E000E76952 /* Base */,
+				DCB5B40E1E5E0B1400E76952 /* sv */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -157,6 +164,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				DCB5B4031E5DD0E000E76952 /* Base */,
+				DCB5B40F1E5E0B1400E76952 /* sv */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -168,6 +176,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -219,6 +228,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
