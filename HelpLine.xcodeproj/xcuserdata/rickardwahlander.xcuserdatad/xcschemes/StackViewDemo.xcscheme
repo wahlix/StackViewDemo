@@ -17,7 +17,7 @@
                BlueprintIdentifier = "DCB5B3F51E5DD0E000E76952"
                BuildableName = "StackViewDemo.app"
                BlueprintName = "StackViewDemo"
-               ReferencedContainer = "container:StackViewDemo.xcodeproj">
+               ReferencedContainer = "container:HelpLine.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "DCB5B3F51E5DD0E000E76952"
             BuildableName = "StackViewDemo.app"
             BlueprintName = "StackViewDemo"
-            ReferencedContainer = "container:StackViewDemo.xcodeproj">
+            ReferencedContainer = "container:HelpLine.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "DCB5B3F51E5DD0E000E76952"
             BuildableName = "StackViewDemo.app"
             BlueprintName = "StackViewDemo"
-            ReferencedContainer = "container:StackViewDemo.xcodeproj">
+            ReferencedContainer = "container:HelpLine.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "DCB5B3F51E5DD0E000E76952"
             BuildableName = "StackViewDemo.app"
             BlueprintName = "StackViewDemo"
-            ReferencedContainer = "container:StackViewDemo.xcodeproj">
+            ReferencedContainer = "container:HelpLine.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

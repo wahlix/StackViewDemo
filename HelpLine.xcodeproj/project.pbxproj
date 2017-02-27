@@ -106,7 +106,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DCB5B3F11E5DD0E000E76952 /* Build configuration list for PBXProject "StackViewDemo" */;
+			buildConfigurationList = DCB5B3F11E5DD0E000E76952 /* Build configuration list for PBXProject "HelpLine" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -277,7 +277,7 @@
 				INFOPLIST_FILE = StackViewDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nu.wahlix.StackViewDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = nu.wahlix.HelpLine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -291,7 +291,7 @@
 				INFOPLIST_FILE = StackViewDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nu.wahlix.StackViewDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = nu.wahlix.HelpLine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -300,7 +300,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DCB5B3F11E5DD0E000E76952 /* Build configuration list for PBXProject "StackViewDemo" */ = {
+		DCB5B3F11E5DD0E000E76952 /* Build configuration list for PBXProject "HelpLine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DCB5B4061E5DD0E000E76952 /* Debug */,
