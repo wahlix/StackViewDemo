@@ -75,9 +75,6 @@
                             <constraint firstAttribute="trailingMargin" secondItem="IF8-Kx-4j3" secondAttribute="trailing" constant="130" id="xx7-sn-sMS"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="callHelpdesk" destination="IF8-Kx-4j3" id="0dg-mK-g4A"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
