@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DCB5B3F61E5DD0E000E76952 /* StackViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StackViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCB5B3F61E5DD0E000E76952 /* Help Line.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Help Line.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCB5B3F91E5DD0E000E76952 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DCB5B3FB1E5DD0E000E76952 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DCB5B3FE1E5DD0E000E76952 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		DCB5B3F71E5DD0E000E76952 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DCB5B3F61E5DD0E000E76952 /* StackViewDemo.app */,
+				DCB5B3F61E5DD0E000E76952 /* Help Line.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,9 +72,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DCB5B3F51E5DD0E000E76952 /* StackViewDemo */ = {
+		DCB5B3F51E5DD0E000E76952 /* Help Line */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DCB5B4081E5DD0E000E76952 /* Build configuration list for PBXNativeTarget "StackViewDemo" */;
+			buildConfigurationList = DCB5B4081E5DD0E000E76952 /* Build configuration list for PBXNativeTarget "Help Line" */;
 			buildPhases = (
 				DCB5B3F21E5DD0E000E76952 /* Sources */,
 				DCB5B3F31E5DD0E000E76952 /* Frameworks */,
@@ -84,9 +84,9 @@
 			);
 			dependencies = (
 			);
-			name = StackViewDemo;
+			name = "Help Line";
 			productName = StackViewDemo;
-			productReference = DCB5B3F61E5DD0E000E76952 /* StackViewDemo.app */;
+			productReference = DCB5B3F61E5DD0E000E76952 /* Help Line.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -119,7 +119,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DCB5B3F51E5DD0E000E76952 /* StackViewDemo */,
+				DCB5B3F51E5DD0E000E76952 /* Help Line */,
 			);
 		};
 /* End PBXProject section */
@@ -309,7 +309,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DCB5B4081E5DD0E000E76952 /* Build configuration list for PBXNativeTarget "StackViewDemo" */ = {
+		DCB5B4081E5DD0E000E76952 /* Build configuration list for PBXNativeTarget "Help Line" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DCB5B4091E5DD0E000E76952 /* Debug */,
